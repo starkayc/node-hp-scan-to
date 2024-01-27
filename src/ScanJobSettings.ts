@@ -34,8 +34,8 @@ export default class ScanJobSettings {
       "\t<YResolution>200</YResolution>\n" +
       "\t<XStart>0</XStart>\n" +
       "\t<YStart>0</YStart>\n" +
-      "\t<Width>2481</Width>\n" +
-      "\t<Height>3507</Height>\n" +
+      "\t<Width>2550</Width>\n" +
+      "\t<Height>3300</Height>\n" +
       "\t<Format>Jpeg</Format>\n" +
       "\t<CompressionQFactor>0</CompressionQFactor>\n" +
       "\t<ColorSpace>Color</ColorSpace>\n" +
